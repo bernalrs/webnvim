@@ -1,0 +1,4 @@
+local.vim
+plugins/plugged/*
+sessions
+spell
