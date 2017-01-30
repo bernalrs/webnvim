@@ -54,9 +54,8 @@ or compile a recent version with `xterm_clipboard` and `ruby` or `python` suppor
 
 ### Install it:
 
-	git clone https://github.com/krampstudio/webvim.git ~/.vim
-    ln -s ~/.vim/.vimrc ~/.vimrc
-    vim
+	git clone https://github.com/bernalrs/webnvim.git ~/.config/nvim
+    nvim
 
 ## Hardcore mode
 
