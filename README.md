@@ -1,8 +1,6 @@
 ![WebVim](resources/WebVim.png "WebVim")
 ===============================
 
-This is a fork of https://github.com/vim-dist/webvim for neovim and aimed at Python and JavaScript
-development.
 
 ------------------------------------------------------
 
