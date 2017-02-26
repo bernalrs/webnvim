@@ -6,7 +6,6 @@ Plug 'benekastah/neomake'
 Plug 'bigfish/vim-js-context-coloring'
 Plug 'bling/vim-airline', { 'do' : $HOME.'/.config/nvim/fonts/install' }
 Plug 'bronson/vim-trailing-whitespace'
-"Plug 'cakebaker/scss-syntax.vim', { 'for': 'scss' }
 Plug 'carlitux/deoplete-ternjs'
 Plug 'easymotion/vim-easymotion'
 Plug 'editorconfig/editorconfig-vim'
@@ -15,7 +14,6 @@ Plug 'elzr/vim-json',  { 'for': 'json' }
 Plug 'exu/pgsql.vim', { 'for': 'sql' }
 Plug 'hail2u/vim-css3-syntax', { 'for': 'css' }
 Plug 'hdima/python-syntax/', {'for': 'py'}
-"Plug 'jalvesaq/vimcmdline'
 Plug 'janko-m/vim-test'
 Plug 'jlanzarotta/bufexplorer'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
@@ -54,7 +52,7 @@ Plug 'xolox/vim-misc'
 Plug 'xolox/vim-session', { 'on': ['SaveSession', 'OpenSession'] }
 Plug 'ynkdir/vim-vimlparser', { 'for': 'vim' }
 Plug 'zchee/deoplete-jedi'
-Plug 'leafgarland/typescript-vim'
+Plug 'mattn/emmet-vim'
 
 call plug#end()
 

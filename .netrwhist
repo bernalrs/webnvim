@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/rbernal/lib/node-v7.4.0-linux-x64/bin'
+let g:netrw_dirhist_2='/home/rbernal/projects/sampleapp/src'
+let g:netrw_dirhist_3='/opt/rh/rh-python35/root/usr/lib/python3.5/site-packages/powerline'
+let g:netrw_dirhist_4='/home/rbernal/projects/generator-react-web'
